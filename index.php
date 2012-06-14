@@ -1,4 +1,1 @@
-<h1>Ok!</h1>
-
-The deployment succeeded.
-
+<h1>Hello application!</h1>
